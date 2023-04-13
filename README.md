@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi, I'm Andrea <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-Hello, I'm Andrea Salazar,
 
 I'm a Full-stack JavaScript Developer from Colombia. 
 
@@ -29,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Developer Consultant at ThoughtWorks
+
